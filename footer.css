@@ -28,3 +28,13 @@
   font-weight: 700;
   font-size: 13px;
 }
+
+@media (max-width: 600px) {
+  .codebym-footer {
+    padding: 8px 0;
+  }
+
+  .codebym-link {
+    font-size: 11px;
+  }
+}
