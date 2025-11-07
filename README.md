@@ -1,4 +1,4 @@
-# 🧩 Codebym Footer
+# 🧩 CodebyM Footer
 
 ![Built by Codebym](https://github.com/code-by-m/codebym-footer/raw/main/assets/built-by-codebym.png)
 
