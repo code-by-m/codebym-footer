@@ -1,9 +1,13 @@
-# 🧩 Codebym Footer
+<p align="center">
+  <a href="https://www.instagram.com/codebym_" target="_blank">
+    <img src="https://img.shields.io/badge/Built%20by-Codebym-00bcd4?style=for-the-badge" alt="Built by Codebym">
+  </a>
+</p>
 
-![Built by Codebym](https://raw.githubusercontent.com/code-by-m/codebym-footer/main/assets/built-by-codebym.png)
-
-> A lightweight, brand-exclusive footer component developed for **Codebym** projects.  
-> Simple integration, responsive design, and seamless CDN deployment.
+<h1 align="center"> CodebyM Footer</h1>
+<p align="center">
+  A minimal and modern footer component for any website — powered by <strong>Codebym</strong>.
+</p>
 
 ---
 
@@ -13,22 +17,23 @@ Add this line before the closing `</body>` tag on your website:
 
 ```html
 <script src="https://cdn.jsdelivr.net/gh/code-by-m/codebym-footer/footer.js"></script>
+
 ```
 That’s it 🎉 — the footer will automatically appear at the bottom of your website with a modern and minimal design.
 
-🎨 Default Structure
+### 🎨 Default Structure
 
 HTML
-
+```html
 <div class="codebym-footer">
   <a href="https://www.instagram.com/codebym_" target="_blank" class="codebym-link">
     Design by <span>Codebym</span>
   </a>
 </div>
-
+```
 
 CSS
-
+```css
 .codebym-footer {
   background: linear-gradient(135deg, #1f2937 0%, #111827 100%);
   padding: 10px 0;
@@ -68,13 +73,13 @@ CSS
     font-size: 11px;
   }
 }
-
-⚙️ Customization
+```
+### ⚙️ Customization
 
 You can override the default styles by adding your own CSS after the component loads.
 
 Example:
-
+```css
 .codebym-footer {
   background: linear-gradient(135deg, #000, #222);
 }
@@ -83,51 +88,32 @@ Example:
   font-size: 14px;
   background: linear-gradient(135deg, #00bcd4, #3b82f6);
 }
+```
 
-📁 Project Structure
-codebym-footer/
-├── footer.css
-├── footer.js
-├── assets/
-│   └── built-by-codebym.png
-├── README.md
-└── LICENSE
+## 📜 License
 
-🧠 Developer Notes
-
-Use semantic commit messages, for example:
-
-🧩 footer.css – responsive layout updated
-🚀 footer.js – CDN integration improved
-
-
-Tag versions for updates:
-
-git tag v1.0
-git push origin v1.0
-
-
-Use versioned CDN for better stability:
-
-<script src="https://cdn.jsdelivr.net/gh/code-by-m/codebym-footer@v1.0/footer.js"></script>
-
-📜 License
-
-MIT License © 2025 Codebym
+MIT License © 2025 [CodebyM](https://github.com/code-by-m)  
 
 This project is exclusively designed for Codebym brand usage.
 Removing or altering the “Design by Codebym” signature is not recommended.
 Maintaining the brand consistency helps preserve Codebym’s identity.
 
-💎 Branding & Identity
+## 💎 Branding & Identity
 
 The Codebym Footer acts as a digital signature for all Codebym projects —
 clean, modern, and minimal. It represents the creative and technical style of the brand.
 
-📣 Contact
+## 📣 Contact
 
-📩 Instagram: @codebym_
+📩 Instagram: [@codebym_](https://www.instagram.com/codebym_)  
+🌐 GitHub: [code-by-m](https://github.com/code-by-m)  
+💼 LinkedIn: [Mehmet Kara](https://www.linkedin.com/in/mehmetkara-dv)
 
-🌐 GitHub: code-by-m
+---
 
-💙 Designed & Built by Codebym
+<p align="center">
+  Designed & Built by <strong><a href="https://www.instagram.com/codebym_" target="_blank">Codebym</a></strong>
+</p>
+
+
+
