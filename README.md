@@ -92,7 +92,7 @@ Example:
 
 ## 📜 License
 
-MIT License © 2025 [CodebyM](https://github.com/code-by-m)  
+[MIT License © 2025](LICENSE) [CodebyM](https://github.com/code-by-m)  
 
 This project is exclusively designed for Codebym brand usage.
 Removing or altering the “Design by Codebym” signature is not recommended.
